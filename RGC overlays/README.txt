@@ -1,6 +1,6 @@
 These overlays are derived from the following community products:
 
-From mugwomp93:
+From mugwomp93 (adapted from 1playerinsertcoin):
 
 https://github.com/mugwomp93/muOS_Customization
 
